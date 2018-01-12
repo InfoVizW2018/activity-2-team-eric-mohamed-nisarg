@@ -12,7 +12,12 @@ Design Mockup
 What-Why-How
 ------------
 ### What
-
+* Dataset: Networks (items, links, attributes)
+* Data Types: 
+	* Items: the berths (nodes) that contain instances of the attributes.
+	* Links: routes (connections) between berths (nodes).
+	* Attributes: info at each node such as ship id, max ship capacity, actual ship capacity, departure time, 
+		arrival time, route, departure berth, arrival berth, ifDelayed
 
 ### Why
 Actions
