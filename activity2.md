@@ -13,5 +13,5 @@ What-Why-How
 ------------
 ### why
 Actions
-*analyze
+* Analyze
 
