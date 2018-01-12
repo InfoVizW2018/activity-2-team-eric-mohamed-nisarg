@@ -1,4 +1,9 @@
-#Design Mock up
+Design Mock up
+==============
+
+Design Mockup
+-------------
 
 
-##Description
+Description
+-----------
