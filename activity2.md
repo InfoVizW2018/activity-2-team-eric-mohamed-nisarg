@@ -26,4 +26,12 @@ Targets
 * Netwrok Data: berths = nodes, routes = paths betwenn nodes.
 ### How
 
+Design Study Methodology
+------------------------
+###Learn
+Learn about what current methods exist that would be helpeful in solving this problem ...
+
+###Pitfalls
+
+
 
