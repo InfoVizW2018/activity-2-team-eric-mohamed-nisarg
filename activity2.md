@@ -1,6 +1,13 @@
 Activity 2
 ==============
 
+Team Members
+———————————
+Mohamed Ghannam
+Eric Bains
+Nisarg Patel
+
+
 Description
 -----------
 This design activity focuses on providing effective solutions to the goals required by the Seaspan shipping company. 
