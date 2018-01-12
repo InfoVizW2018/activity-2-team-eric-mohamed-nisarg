@@ -7,7 +7,7 @@ Description
 
 Design Mockup
 -------------
-
+![Mockup](design.png)
 
 What-Why-How
 ------------
