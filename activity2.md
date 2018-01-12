@@ -23,6 +23,15 @@ What-Why-How
 	* Attributes: info at each node such as ship id, max ship capacity, actual ship capacity, departure time, 
 		arrival time, route, departure berth, arrival berth, ifDelayed
 
+* Dataset Availability: Dynamic so that we can get updating Vessel information.
+* Attribute Types:
+	* Categorical: the berths are unique and require no ordering.
+	* Ordered: 
+		* Ordinal: The vessels can handle varying max capacities and are represented in the vis with different sizes.
+		* Quantitative: used for calculating the difference between max ship capacity and actual ship capacity attributes.
+	* Diverging: the routes can go in both directions.
+	* Cyclic: the hours in a day are cycled for each day, and the days in a week are cycled for each week for scheduling purposes.
+
 ### Why
 Actions
 * Analyze:
