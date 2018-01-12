@@ -61,9 +61,38 @@ Map
 Design Study Methodology
 ------------------------
 ### Learn
-Learn about what current methods exist that would be helpeful in solving this problem ...
+What we have learned up to now in Visualization Literature will be utilized in this Visualization.
+When we have established a better foundation of knowledge we will return to this Visualization with improved methods.
+
+### Winnow
+No need to perform this stage at this point since there has only been this initial Visualization.
+
+### Cast
+Roles we have to consider are those of the Stakeholders, and those of the Schedule Makers that will be utilizing this Visualization.
+
+### Discover
+Sufficient Requirements were provided so that Visualization could be prepared. However no actual communication with users has occured.
+
+### Design
+This stage was limited due to time constraints, so we could not move from a Broad Consideration Space to a Narrow Consideration Space since we have produced just the one Visualization mock up that satisfies the requirements.
+
+### Implement
+No actual implementation occured in this Visualization.
+
+### Deploy
+No Implementation, therefore no Deployment.
+
+### Reflect
+Visualization performed likely holds no significance towards researchers.
+
+### Write
+This document.
 
 ### Pitfalls
+
+PF-6 : Problem can be automated (winnowing).
+PF-11 : No rapport with collaborators (winnowing).
+PF-23 : Usability Too much (Implement).
 
 
 
