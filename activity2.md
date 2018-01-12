@@ -3,9 +3,7 @@ Activity 2
 
 Team Members
 -----------
-Mohamed Ghannam
-Eric Bains
-Nisarg Patel
+Mohamed Ghannam, Eric Bains, Nisarg Patel
 
 
 Description
