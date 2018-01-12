@@ -1,9 +1,16 @@
-Design Mock up
+Activity 2
 ==============
+
+Description
+-----------
+
 
 Design Mockup
 -------------
 
 
-Description
------------
+What-Why-How
+------------
+###why
+
+
