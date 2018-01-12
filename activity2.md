@@ -12,5 +12,6 @@ Design Mockup
 What-Why-How
 ------------
 ### why
-
+Actions
+*analyze
 
