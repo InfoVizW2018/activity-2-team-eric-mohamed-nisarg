@@ -13,5 +13,6 @@ What-Why-How
 ------------
 ### why
 Actions
-* Analyze
+* Analyze:
+	*consume:
 
