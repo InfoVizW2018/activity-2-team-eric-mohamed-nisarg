@@ -12,12 +12,21 @@ Design Mockup
 What-Why-How
 ------------
 ### What
-* Dataset: Networks (items, links, attributes)
+* Dataset: Networks (items, links, attributes).
 * Data Types: 
 	* Items: the berths (nodes) that contain instances of the attributes.
 	* Links: routes (connections) between berths (nodes).
 	* Attributes: info at each node such as ship id, max ship capacity, actual ship capacity, departure time, 
-		arrival time, route, departure berth, arrival berth, ifDelayed
+		arrival time, route, departure berth, arrival berth, ifDelayed.
+
+* Dataset Availability: Dynamic so that we can have updating vessel information.
+* Attribute Types:
+	* Categorical: the berths are unique and have no ranking properties
+	* Ordered:
+		* Ordinal: the vessels have varying capacities and can be arranged as such.
+		* Quantitative: calculating the max ship capacity and actual ship capacity after departure.
+	* Diverging: routes go both directions between berths
+	* Cyclic: hours in a day cycle and days in the week cycle for scheduling purposes
 
 ### Why
 Actions
