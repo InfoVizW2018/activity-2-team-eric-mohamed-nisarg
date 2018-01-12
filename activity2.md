@@ -91,7 +91,9 @@ This document.
 ### Pitfalls
 
 PF-6 : Problem can be automated (winnowing).
+
 PF-11 : No rapport with collaborators (winnowing).
+
 PF-23 : Usability Too much (Implement).
 
 
